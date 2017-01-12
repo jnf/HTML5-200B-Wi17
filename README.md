@@ -1,4 +1,4 @@
-# Documents and examples for HTML5 200B: Learning Us A JavaScript
+# Lecuture notes and code samples for HTML5 200B
 
 ## Lecture Notes
 
