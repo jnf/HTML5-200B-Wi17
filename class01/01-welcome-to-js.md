@@ -1,4 +1,5 @@
 # Welcome to JavaScript!
+
 ## Learning Goals
 - What & Why JavaScript?
 - Discover the varying applications of JavaScript
@@ -45,7 +46,7 @@ undefined
 
 Now that we've got a console available to us, let's jump in with some JavaScript specifics. We are going to talk about __variables__, __datatypes__, and __functions__.
 
-### `String`
+### Saying things with `String`
 JavaScript _strings_ are a sequence of characters. We use _strings_ for text that's meaningful to humans. Typically, strings are created by enclosing characters (letters, numbers, punctuation symbols, etc.) between a pair of single or double quotes.
 
 ```javascript

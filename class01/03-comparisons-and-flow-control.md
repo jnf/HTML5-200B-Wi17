@@ -1,4 +1,5 @@
 # Comparisons & Flow Control
+
 ## Learning Goals
   - MOAR booleans!
   - Use equality and numeric comparisons to change how code executes.

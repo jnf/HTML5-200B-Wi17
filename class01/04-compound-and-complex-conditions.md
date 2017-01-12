@@ -1,4 +1,5 @@
 # Compound and Complex Conditionals
+
 ## Learning Goals
 - Explore the _Truth Table_ & the _Precedence List_
 - Practice expressing and evaluating complex conditions
